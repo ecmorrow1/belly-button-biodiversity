@@ -1,1 +1,3 @@
 # belly-button-biodiversity
+
+For this project, a web page was constructed to house visualizations for biodiversity data of bacteria.  The page uses Plotly to render 3 visualizations of the data in the form of a bar graph, a gauge indicator, and a bubble graph.  Customizations to the page include alteration to the layout, addition of an image to the jumbotron, and customization of the page's background.
